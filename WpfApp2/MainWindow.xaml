@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Grid>
+        <Canvas>
+            <Label Canvas.Left="147" Canvas.Top="90" >salam xos geldiniz</Label>
+            <Button Content="admin"  Width="50" Height="50" RenderTransformOrigin="0.531,0.455" Canvas.Left="175" Canvas.Top="210" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Button_Click_1">
+
+            </Button>
+            <Button Content="musteri" Width="50" Height="50" Canvas.Left="175" Canvas.Top="142" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Button_Click">
+
+            </Button>
+        </Canvas>
+
+    </Grid>
+</Window>

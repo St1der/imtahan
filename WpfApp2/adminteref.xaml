@@ -6,7 +6,29 @@
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
         Title="adminteref" Height="450" Width="800">
+
     <Grid>
-        
+        <Canvas>
+            
+                  
+            <Label FontSize="40" Content="soyuq yemek" Canvas.Left="10" Canvas.Top="10"></Label>
+            <Label FontSize="20" Content="salat" Canvas.Left="10" Canvas.Top="78"></Label>
+            <Label FontSize="20" Content="soyuq salat" Canvas.Left="10" Canvas.Top="115"></Label>
+            <Label FontSize="40" Content="kofe" Canvas.Left="10" Canvas.Top="169" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Label FontSize="20" Content="capicno" Canvas.Left="18" Canvas.Top="232"></Label>
+            <Label FontSize="20" Content="latde" Canvas.Left="18" Canvas.Top="274"></Label>
+            <Label FontSize="20" Content="Amerkano" Canvas.Left="18" Canvas.Top="328" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Label FontSize="40" Content="sular" Canvas.Left="400" Canvas.Top="10" HorizontalAlignment="Left" VerticalAlignment="Center"></Label>
+            <Label FontSize="20" Content="cola" Canvas.Left="400" Canvas.Top="78" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+            <Label FontSize="20" Content="fata" Canvas.Left="400" Canvas.Top="115"></Label>
+            <Label FontSize="20" Content="su" Canvas.Left="400" Canvas.Top="152" HorizontalAlignment="Left" VerticalAlignment="Top"></Label>
+            <Label FontSize="40" Content="sular" Canvas.Left="404" Canvas.Top="189" HorizontalAlignment="Left" VerticalAlignment="Center"></Label>
+            <Label FontSize="20" Content="cola" Canvas.Left="404" Canvas.Top="245" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.479,0.548"></Label>
+            <Label FontSize="20" Content="fata" Canvas.Left="404" Canvas.Top="280" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Label FontSize="20" Content="su" Canvas.Left="404" Canvas.Top="310" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+
+
+
+        </Canvas>
     </Grid>
 </Window>

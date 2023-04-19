@@ -13,9 +13,9 @@
 
         </Grid.ColumnDefinitions>
         <Canvas>
-            <Label Name="menyu" Height="312" Width="150" Canvas.Left="5" Canvas.Top="4" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
-            <Label Name="qiymet" Height="50" Width="150" Canvas.Left="5" Canvas.Top="323" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
-            <Button Name="hesab" Content="Hesab" FontSize="20" Height="50" Width="150" Canvas.Left="5" Canvas.Top="379" HorizontalAlignment="Center" VerticalAlignment="Top"></Button>
+            <Label Name="menyu" Height="312" Width="150" Canvas.Left="5" Canvas.Top="2" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Label Name="qiymet" Height="50" Width="150" Canvas.Left="5" Canvas.Top="316" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Button Name="hesab" Content="Hesab" FontSize="20" Height="50" Width="150" Canvas.Left="6" Canvas.Top="370" HorizontalAlignment="Left" VerticalAlignment="Center"></Button>
         </Canvas>
 
         <Canvas Grid.Column="2">
